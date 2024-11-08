@@ -1,2 +1,1 @@
-# rails_react_env-rails
-rails × react でのDocker環境構築用リポジトリ（バックエンド側）
+rails + react での Docker 環境構築用リポジトリ（バックエンド側）
